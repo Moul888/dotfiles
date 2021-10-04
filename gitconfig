@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mrmoulinier2440@gmail.com
+	name = Pierre Moulinier
